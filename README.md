@@ -9,10 +9,11 @@ Therefore, it is very interesting to research further how we as E-Commerce merch
 ## Data
 Data Source:
 - Main Dataset
-  - Consumer Behavior: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
+  - Consumer Behavior in the US: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
   - US State Latitude & Longitude: https://github.com/jasperdebie/VisInfo/blob/master/us-state-capitals.csv
 - Secondary Data:
-  - E-Commerce Sales in the US: https://fred.stlouisfed.org/series/ECOMPCTSA
+  - E-Commerce Retail Sales in the US: https://fred.stlouisfed.org/series/ECOMSA
+  - E-Commerce Retail Sales as a Percent of Total Sales in the US: https://fred.stlouisfed.org/series/ECOMPCTSA
   - E-Commerce Sales Forcast: https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/
 
 ## Result Summary
