@@ -1,4 +1,4 @@
-# Project Synopsis
+## Project Synopsis
 This project focuses on data analysis and data visualization. The goal of this project is to help optimize merchant sales and revenue in E-Commerce by analyzing consumer behavior using open source data. The tools used to carry out the analysis are Python (Numpy, Pandas, Seaborn & Matplotlib) and also Tableau to create interactive dashboards.
 
 ## Objective & Motivation
