@@ -26,3 +26,7 @@ Data Source:
 - Providing discounts and providing a subscription system does not have a positive impact on sales.
 - The shipping method preferred by customers is free shipping.
 - The average purchase amount is currently around $60 and would like to target $65 or more.
+
+## Tableau Dashboard
+I also created an interactive dashboard related to these data using Tableau. To access the dashboard, you can go to the following link:
+[Tableau Link](https://public.tableau.com/views/E-CommerceConsumerBehaviorintheUS_17025399920520/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
