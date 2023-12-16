@@ -31,3 +31,7 @@ Data Source:
 ## Tableau Dashboard
 I also created an interactive dashboard related to these data using Tableau. To access the dashboard, you can go to the following link:
 [Tableau Link](https://public.tableau.com/views/E-CommerceConsumerBehaviorintheUS_17025399920520/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Presentation Slides
+For a more detailed explanation, you can read the presentation slides which can be accessed in the file directory of this repository with the file name ***'E - Commerce - Slides.pdf'*** or directly click the following link:
+[Presentation Slides Link](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/blob/main/E%20-%20Commerce%20-%20Slides.pdf)
