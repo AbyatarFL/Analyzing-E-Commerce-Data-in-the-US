@@ -18,15 +18,23 @@ Data Source:
 
 ## Result Summary
 - Peak Season occurs in Fall
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/6e4ac4fe-db62-441a-807f-cc7ead43d565)
 - Clothing is the category that contributes the largest revenue and is in demand by all regions, gender and age groups.
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/0259e192-66c9-4f0c-bfa3-f4c7c6aa3b58)
 - The Outerwear category has a lower number of purchases compared to other categories.
 - Montana, Illinois, California, Idaho, and Alabama are the regions that have the most customers.
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/1e8419e4-43b7-4410-a82a-ecb7502b936a)
 - Men accounted for 68% of total purchases, while women accounted for 32% of total purchases.
 - The age category that spends the largest amount is in the 45 - 55 year age range
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/0401bf5d-220f-4f37-8399-1e21a86267d8)
 - Users prefer to pay using PayPal, Credit Cards, and Cash.
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/055b7489-81ce-40ec-a14a-1b641e97762a)
 - Providing discounts and providing a subscription system does not have a positive impact on sales.
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/7f9110f5-7e0a-4782-9b05-e8695cb1755e)
 - The shipping method preferred by customers is free shipping.
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/9f5d98ad-126d-40b9-a30e-2b701eddfd39)
 - The average purchase amount is currently around $60 and would like to target $65 or more.
+  ![image](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/assets/109770559/47f763d1-bdc0-4f18-96ec-fd0ca8442d55)
 
 ## Tableau Dashboard
 I also created an interactive dashboard related to these data using Tableau. To access the dashboard, you can go to the following link:
